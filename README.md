@@ -60,6 +60,9 @@ AVD Pixel 2
 <details>
 <summary>9/7</summary>
 
+- 안드로이드 개발 과정
+![개발 과정](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_7(2).png)
+
 1. [Hello World](https://github.com/DongGeon0908/Android_Study/tree/master/HelloWorld)
 ![실행사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_7(1).png)
 <hr />
