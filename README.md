@@ -3,6 +3,11 @@
 <hr />
 
 <details>
+<summary>9/2</summary>
+
+</details>
+
+<details>
 <summary>9/7</summary>
 
 1. [Hello World](https://github.com/DongGeon0908/Android_Study/tree/master/HelloWorld)
