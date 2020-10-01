@@ -30,7 +30,7 @@ AVD Pixel 2
 - 지속적인 업그레이드 지원
 
 - 안드로이드 구조
-![안드로이드 구조]() 
+![안드로이드 구조](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_2(1).png) 
 
 - 응용프로그램(Applications)
     + 안드로이드 스마트폰엣허 사용할 수 있는 일반적인 응용 프로그램
@@ -52,8 +52,8 @@ AVD Pixel 2
     + 하드웨어의 운영과 관련된 저수준의 관리 기능
     + 메모리 관리, 디바이스 드라이버, 보안 등
 
-![안드로이드 개발환경]()
-
+![안드로이드 개발환경](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_2(2).png)
+![안드로이드 개발환경](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_2(3).png)
 
 </details>
 
