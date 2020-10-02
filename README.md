@@ -183,5 +183,33 @@ AVD Pixel 2
 
 1. [간단한 계산기](https://github.com/DongGeon0908/Android_Study/tree/master/calculater)
 ![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_21(1).png)
+<hr />
+
+- 체크박스
+    + 체크할 때마다 상태가 체크, 언체크로 변경
+    + 여러 개의 체크박스가 있어도 서로 독립적으로 동작
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_21(2).png)
+
+- 스위치와 토글버튼
+    + 체크박스와 모양만 다를뿐 용도는 거의 동일
+
+- 라디오버튼
+    + 여러 개 중 하나만 선택해야 하는 경우에 사용
+
+- 라디오그룹
+    + 라디오버튼만 여러 개 나열하면 클릭하는 것마다 모두 중복 선택이 되므로 라디오그룹과 함께 사용해야 함
+
+- 이미지뷰(Image View)
+    + 그림을 출력하는 위젯으로 그림이 필요하거나 화면을 화려하게 구성할 때 사용
+    + 이미지뷰에 보여줄 그림 파일은 프로젝트의 `res - drawable`에 있어야 함
+    + `@drawable/그림 id`
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_21(3).png)
+<hr />
+
+
+
+</details>
+<details>
+<summary>9/23</summary>
 
 </details>
