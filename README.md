@@ -118,12 +118,16 @@ AVD Pixel 2
 - `gradle.properties` : JVM 관련 메모리가 설정되어 있음
 <hr />
 </details>
+
+- 9/14은 기본 자바 문법
+
 <details>
-<summary>9/14</summary>
+<summary>9/16</summary>
 
 - View 클래스
 ![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(1).png)
 ![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(2).png)
+
 
 - Button 클래스
 ![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(3).png)
@@ -172,5 +176,11 @@ AVD Pixel 2
 
 1. [간단한 실습](https://github.com/DongGeon0908/Android_Study/tree/master/Chapter4)
 ![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(7).png)
+
+</details>
+<details>
+<summary>9/21</summary>
+
+
 
 </details>
