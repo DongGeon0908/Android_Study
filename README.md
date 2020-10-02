@@ -143,4 +143,28 @@ AVD Pixel 2
 - `background`
     + 위젯의 색상을 주로 #RRGGBB 값으로 지정
 
+- `padding`
+    + 위젯의 경계선으로부터 위젯 안의 요소가 떨어지도록 설정
+
+- `layout_margin`
+    + 위젯과 위젯 사이에 여유를 둘때 사용
+
+- `visibility`
+    + 위젯을 보일 것인지 여부를 결정
+    + defualt는 `visible`
+    + `invisible`과 `gone`은 보이지 않는 상태
+
+- `enabled`
+    + 위젯의 동작 여부
+    + `true`와 `false`로 지정
+
+- `clickable`
+    + 클릭이나 터치가 가능하도록 함
+    + `true`와 `false`로 지정
+
+- `rotation`
+    + 위젯을 회전시켜서 출력
+    + 값은 각도로 지정
+
+
 </details>
