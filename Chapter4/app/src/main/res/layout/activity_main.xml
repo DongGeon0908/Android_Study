@@ -5,36 +5,36 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="30dp"
     tools:context=".MainActivity">
 
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:background="#00ff00"
+       android:layout_margin="20dp"
+       android:text="버튼 1" />
+
     <TextView
-        android:id="@+id/textView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="아래에 이름을 입력"
-        />
+        android:layout_margin="20dp"
+        android:text="이건 텍스트뷰입니다." />
 
     <EditText
-        android:id="@+id/edit1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:hint="여기를 채우세요"
-        />
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="이건 에디트 텍스트입니다."
+        android:background="#0000ff" />
 
-
-    <RadioButton
-        android:id="@+id/cat"
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
+        android:layout_margin="20dp"
         android:enabled="false"
-        android:text="고양이"/>
+        android:text="버튼 2"
+        />
 
-    <RadioButton
-        android:id="@+id/dog"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="개"/>
 
 
 </LinearLayout>

@@ -166,5 +166,11 @@ AVD Pixel 2
     + 위젯을 회전시켜서 출력
     + 값은 각도로 지정
 
+- 텍스트 뷰 속성
+![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(5).png)
+![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(6).png)
+
+1. [간단한 실습](https://github.com/DongGeon0908/Android_Study/tree/master/Chapter4)
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(7).png)
 
 </details>
