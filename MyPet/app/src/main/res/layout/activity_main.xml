@@ -35,7 +35,6 @@
         android:id="@+id/Rgroup1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
-
         <RadioButton
             android:id="@+id/RdoDog"
     android:layout_width="wrap_content"
@@ -54,10 +53,10 @@
         android:layout_height="wrap_content"
         android:text="토끼"
         />
-
     </RadioGroup>
 
     <Button
+        android:visibility="invisible"
         android:id="@+id/BtnOK"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -65,11 +64,9 @@
         />
 
     <ImageView
-        android:visibility="invisible"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/Ex2"
-
+        android:id="@+id/Img"
         />
 
 

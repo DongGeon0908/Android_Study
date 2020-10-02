@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     RadioGroup rGroup1;
     RadioButton rdoDog, rdoCat, rdoRabbit;
     Button btnOK;
-    ImageView ex2;
+    ImageView img;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,7 +40,8 @@ public class MainActivity extends AppCompatActivity {
         rdoDog = findViewById(R.id.RdoDog);
         rdoCat = findViewById(R.id.RdoCat);
         rdoRabbit = findViewById(R.id.RdoRabbit);
-        ex2 = findViewById(R.id.Ex2);
+        img = findViewById(R.id.Img);
+        btnOK = findViewById(R.id.BtnOK);
 
 
         chkAgree.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
@@ -50,12 +51,12 @@ public class MainActivity extends AppCompatActivity {
                     text2.setVisibility(View.VISIBLE);
                     rGroup1.setVisibility(View.VISIBLE);
                     btnOK.setVisibility(View.VISIBLE);
-                    ex2.setVisibility(View.VISIBLE);
+                    img.setVisibility(View.VISIBLE);
                 } else {
                     text2.setVisibility(View.INVISIBLE);
                     rGroup1.setVisibility(View.INVISIBLE);
                     btnOK.setVisibility(View.INVISIBLE);
-                    ex2.setVisibility(View.INVISIBLE);
+                    img.setVisibility(View.INVISIBLE);
                 }
             }
         });
@@ -63,19 +64,20 @@ public class MainActivity extends AppCompatActivity {
         btnOK.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                switch(rGroup1.getCheckedRadioButtonId()){
+                switch (rGroup1.getCheckedRadioButtonId())
+                {
                     case R.id.RdoDog:
-                        ex2.setImageResource(R.drawable.ex1);
+                        img.setImageResource(R.drawable.ex2);
                         break;
                     case R.id.RdoCat:
-                        ex2.setImageResource(R.drawable.ex3);
+                        img.setImageResource(R.drawable.ex3);
                         break;
                     case R.id.RdoRabbit:
-                        ex2.setImageResource(R.drawable.ex4);
+                        img.setImageResource(R.drawable.ex4);
                         break;
                     default:
-                        Toast.makeText(getApplicationContext(), "동물을 먼저 선택", Toast.LENGTH_SHORT).show();
-
+                        Toast.makeText(getApplicationContext(), "동물 먼저 선택하세요.",
+                                Toast.LENGTH_SHORT).show();
                 }
             }
         });
