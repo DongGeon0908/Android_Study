@@ -335,5 +335,12 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+<hr />
+</details>
+<details>
+<summary>9/28</summary>
+
+- 랠러티브레이아웃
+- ![랠러티브레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(1).png)
 
 </details>
