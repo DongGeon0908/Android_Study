@@ -83,6 +83,38 @@ AVD Pixel 2
 ![개발 완료](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_9(2).png)
 <hr />
 
+1. [FourButton](https://github.com/DongGeon0908/Android_Study/tree/master/basebase)
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_9(3).png)
 
+- 버튼 1
+    + `naver.com` 연결
+- 버튼 2
+    + `911` 전화
+- 버튼 3
+    + `갤러리` 열기
+- 버튼 4
+    + 종료
+<hr />
 
+### res 폴더
+- 앱 개발에 사용되는 이미지, 레이아웃, 문자열 등이 들어가는 폴더
+    + `drawable` : 이미지 파일 저장
+    + `layout` : 액티비티(화면)을 구성하는 xm1 파일을 넣으면 됨
+    + `values` : 문자열을 저장하는 string.xml 등이 들어 있음
+    + `menu` : 메뉴 xml 파일이 저장되어 있음
+ - `res(generated)`
+    + `Android Studio 3.5` 부터 제공
+    + 내부적으로 사용
+<hr />
+
+### manifests 폴더
+- `AndroidManifest.xml` 파일이 들어 있음
+- 앱의 여러 가지 정보를 담고 있음
+<hr />
+
+### Gradle Scripts 폴더
+- `build.gradle (Module: app)` : 빌드 스크립트 핵심 파일
+- `local.properties` : 컴파일되는 SDK의 경로가 들어 있음
+- `gradle.properties` : JVM 관련 메모리가 설정되어 있음
+<hr />
 </details>

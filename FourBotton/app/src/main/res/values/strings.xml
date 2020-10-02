@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FourBotton</string>
+    <string name="button1">네이버 홈페이지 열기</string>
+    <string name="button2">911 응급전화 걸기</string>
+    <string name="button3">갤러리 열기</string>
+    <string name="button4">끝내기</string>
 </resources>
