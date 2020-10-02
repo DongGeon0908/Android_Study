@@ -119,7 +119,7 @@ AVD Pixel 2
 <hr />
 </details>
 
-- 9/14은 기본 자바 문법
+<summary>9/16 (자바 라뷰)</summary>
 
 <details>
 <summary>9/16</summary>
