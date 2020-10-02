@@ -181,6 +181,7 @@ AVD Pixel 2
 <details>
 <summary>9/21</summary>
 
-
+1. [간단한 계산기](https://github.com/DongGeon0908/Android_Study/tree/master/calculater)
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_21(1).png)
 
 </details>

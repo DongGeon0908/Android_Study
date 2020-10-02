@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">calculater</string>
+    <string name="hint1">숫자1</string>
+    <string name="hint2">숫자2</string>
+    <string name="addition">더하기</string>
+    <string name="substraction">빼기</string>
+    <string name="multiplication">곱하기</string>
+    <string name="division">나누기</string>
+    <string name="result">계산 결과</string>
 </resources>
