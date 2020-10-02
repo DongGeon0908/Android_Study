@@ -341,6 +341,189 @@ public class MainActivity extends AppCompatActivity {
 <summary>9/28</summary>
 
 - 랠러티브레이아웃
+1. [간단한 계산기](https://github.com/DongGeon0908/Android_Study/tree/master/layout2)
 - ![랠러티브레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(1).png)
+- ![랠러티브레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(2).png)
+```
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="위" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:text="왼쪽" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="오른쪽" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="아래" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="중앙" />
+
+
+</RelativeLayout>
+```
+
+
+- 상대 위치에 배정
+- ![랠러티브레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(3).png)
+- ![랠러티브레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(4).png)
+```
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/baseBtn"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="기준위젯" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/baseBtn"
+        android:layout_toLeftOf="@+id/baseBtn"
+        android:text="2번" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/baseBtn"
+        android:text="3번" />
+
+
+</RelativeLayout>
+```
+<hr />
+
+- ![랠러티브레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(5).png)
+```
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="전화번호"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/textView1"
+        android:hint="000-0000-0000" />
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editText1"
+        android:text="취소" />
+
+    <Button
+        android:id="@+id/btnOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnCancel"
+        android:layout_toLeftOf="@+id/btnCancel"
+        android:text="입력" />
+
+
+</RelativeLayout>
+```
+<hr />
+
+- 테이블레이아웃
+![테이블레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(6).png)
+![테이블레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(7).png)
+[테이블레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(8).png)
+```
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TableRow>
+        <Button
+            android:layout_width="60dp"
+            android:text="1"
+            />
+        <Button
+            android:layout_width="60dp"
+            android:text="2"
+            />
+        <Button
+            android:layout_width="60dp"
+            android:text="3"
+            />
+        <Button
+            android:layout_width="60dp"
+            android:text="4"
+            />
+        <Button
+            android:layout_width="60dp"
+            android:text="5"
+            />
+
+    </TableRow>
+
+
+</TableLayout>
+```
+<hr />
+
+- 그리드 레이아웃
+![그리드레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(9).png)
+![그리드레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(10).png)
+
+- 프레임 레이아웃
+![프레임레이아웃](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_28(11).png)
+
+1. [계산기 예제]
 </details>
