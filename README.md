@@ -211,10 +211,10 @@ AVD Pixel 2
 
 <hr />
 
-
-
 </details>
 <details>
 <summary>9/23</summary>
+
+
 
 </details>
