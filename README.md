@@ -139,4 +139,8 @@ AVD Pixel 2
 
 - `wrap_content`
     + 자신의 폭이나 높이를 자신 안의 글자가 들어갈 정도로만 설정
+
+- `background`
+    + 위젯의 색상을 주로 #RRGGBB 값으로 지정
+
 </details>
