@@ -118,3 +118,20 @@ AVD Pixel 2
 - `gradle.properties` : JVM 관련 메모리가 설정되어 있음
 <hr />
 </details>
+<details>
+<summary>9/14</summary>
+
+- View 클래스
+![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(1).png)
+![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(2).png)
+
+- Button 클래스
+![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(3).png)
+![View](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_14(4).png)
+
+- id 속성
+    + 모든 위젯의 아이디를 나타냄
+    + JAVA 코드에서 위젯에 접근할 떄 id 속성에 지정한 아이디 사용
+    + id 속성은 위젯에 아이디를 새로 부여하는 개념이므로 `@+id/` 형싯으로 지정
+
+</details>
