@@ -222,5 +222,87 @@ AVD Pixel 2
 ![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(3).png)    
 ![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(4).png)    
 
+1. [실습파일](https://github.com/DongGeon0908/Android_Study/tree/master/layout)
+- [LinearLayout-vertical](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(5).png)
+
+- [LinearLayout-horizontal](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(6).png)
+
+- [LinearLayout-gravity](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(7).png)
+    + `gravity` 속성은 레이아웃 안의 위젯을 어디에 배치할 것인지 결정
+
+- [layout-gravity](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(8).png)
+
+- [baselineAligned](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(9).png)
+
+- 중복 리니어 레이아웃
+    + 리니어레이아웃 안에 리니어레이아웃 생성하는 방식
+- `layout_weight`  
+    + 리니어레이아웃을 여러 개 사용할 경우 각 레이아웃의 크기를 지정할 때 사용
+    + 주로 전체 화면에 대한 비율(%)로 지정
+
+- [LinearLayout](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(10).png)
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="right"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#ff0000"
+            android:orientation="vertical">
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#00ff00"
+            android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#ffff00"
+            android:orientation="vertical">
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#000000"
+            android:orientation="vertical">
+        </LinearLayout>
+        </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#0000ff"
+            android:orientation="vertical">
+        </LinearLayout>
+</LinearLayout>
+```
 
 </details>
