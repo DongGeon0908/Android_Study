@@ -215,6 +215,12 @@ AVD Pixel 2
 <details>
 <summary>9/23</summary>
 
+- 레이아웃
+    + ViewGroup 클래스로부터 상속받음
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(1).png)    
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(2).png)    
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(3).png)    
+![실행 사진](https://github.com/DongGeon0908/Android_Study/blob/master/pic/9_23(4).png)    
 
 
 </details>
