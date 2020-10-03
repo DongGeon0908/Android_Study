@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="textView1">이름: 김동건</string>
+    <string name="textView2">학번: 201658109</string>
+    <string name="group1">안드로이드 프로그래밍 분반은?</string>
+    <string name="group2">사용하는 스마트폰은?</string>
+    <string name="class1">A반 (13:00 - 14:15)</string>
+    <string name="class2">B반 (14:30 - 15:45)</string>
+    <string name="class3">안드로이드 폰</string>
+    <string name="class4">아이폰</string>
+    <string name="btn1">다음 사진</string>
+</resources>
