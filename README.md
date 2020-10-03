@@ -530,7 +530,7 @@ public class MainActivity extends AppCompatActivity {
 
 </details>
 <details>
-<summary>과제</summary>
+<summary>과제1</summary>
 
 [이미지 변환](https://github.com/DongGeon0908/Android_Study/tree/master/project1)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/project(1).png)
