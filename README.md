@@ -553,5 +553,24 @@ public class MainActivity extends AppCompatActivity {
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(6).png)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(7).png)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(8).png)
+<hr />
+
+- 애플리케이션의 기초 개념
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(9).png)
+
+- 애플리케이션은 컴포넌트로 이뤄짐
+    + 액티비티(activity)
+        * 사용자 인터페이스 화면을 가지는 하나의 작업
+        * 액티비티들이 모여서 애플리케이션이 됨
+    + 서비스(service)
+        * 백그라운드에서 실행되는 컴포넌트로서 오랫동안 실행되는 작업이나 원격 프로세스를 위한 작업
+    + 방송 수신자(broadcast resceiver)
+        * 방송을 받고 반응하는 컴포넌트
+    + 컨텐트 제공자(content provider)
+        * 데이터를 관리하고 다른 애플리케이션에게 제공하는 컴포넌트
+- 안드로이드에서는 다른 컴포넌트의 데이터를 사용할 수 있음
+- 인텐트
+    + 애플리케이션의 의도를 적어서 안드로이드에 전달하면 안드로이드가 가장 적절한 컴포넌트를 찾아서 활성화하고 실행
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(10).png)
 
 </details>
