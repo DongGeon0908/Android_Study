@@ -573,4 +573,12 @@ public class MainActivity extends AppCompatActivity {
     + 애플리케이션의 의도를 적어서 안드로이드에 전달하면 안드로이드가 가장 적절한 컴포넌트를 찾아서 활성화하고 실행
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(10).png)
 
+- 안드로이드 애플리케이션의 실행 시작
+    + 액티비티별로 실행
+    + onCreate() 메소드가 가장 먼저 실행
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(11).png)
+
+- 코드와 리소르를 분리하는 이유
+    + 안드로이드가 탑재된 장치들이 다양해지면서 언어나 화면 크기에 따라서, 리소르를 다르게 하는것이 필요
+
 </details>
