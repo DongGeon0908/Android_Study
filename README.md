@@ -536,3 +536,22 @@ public class MainActivity extends AppCompatActivity {
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/project(1).png)
 
 </details>
+<details>
+<summary>10/5</summary>
+
+- 프로젝트 파일 구조
+    + `manifests, java, res, Gradle Scripts`의 주요 모듈로 구성
+    + 각 모듈의 파일들은 프로젝트를 만들 때 액티비티 유형에 따라 일부 다름
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(1).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(2).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(3).png)
+<hr />
+
+- 프로젝트 파일 간 연관성과 앱의 실행 원리
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(4).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(5).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(6).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(7).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(8).png)
+
+</details>
