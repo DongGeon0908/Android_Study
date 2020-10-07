@@ -582,3 +582,60 @@ public class MainActivity extends AppCompatActivity {
     + 안드로이드가 탑재된 장치들이 다양해지면서 언어나 화면 크기에 따라서, 리소르를 다르게 하는것이 필요
 
 </details>
+<details>
+<summary>10/7</summary>
+
+- 컨스트레인트 레이아웃
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(1).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(2).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(3).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(4).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(5).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(6).png)
+
+- 입력 위젯
+    + 사용자의 입력을 받을 수 있는 위젯
+    + 안드로이드에서 다양한 입력 위젯 제공
+
+- 이벤트 처리
+    + `onClick'을 통해 이벤트 처리 가능
+    + `public'만 가능
+    + `View`를 메소드의 인수로 사용
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(7).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(8).png)
+
+- 폴링과 이벤트 구동 방식
+    + 안드로이드는 이벤트 구동 방식 지원
+
+- 안드로이드에서의 이벤트 처리 방법
+    + XML 파일에 이벤트 처리 메소드를 등록
+    + 이벤트 처리 객체를 생성하여 컴포넌트 등록
+    + 뷰 클래스의 이벤트 처리 메서드를 재정의
+
+- 이벤트 리스너
+    + 리벤트를 처리하는 객체를 생성하여 위젯에 등록
+    + 이벤트를 처리하는 객체를 이벤트를 처리하는 메소를 가지고 있어야 함
+    + 이벤트를 처리하는 메소드들이 정의된 인터페이스를 의미
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(9).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(10).png)
+
+- 무명 클래스
+    + 클래스 몸체는 정의되지만 이름이 없는 클래스
+    + 클래스를 정의하면서 동시에 객체를 생성
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(11).png)
+
+- 리스너 객체를 생성하는 방법
+    + 내부 클래스
+        * 리스너 클래스를 내부 클래스로 정의
+        * 내부 클래스는 클래스 안에 정의
+        * 자신이 속해있는 클래스의 멤버들에 자유롭게 접근 가능
+        ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(12).png)
+    ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(14).png)
+    + 무명 클래스
+        * 한번만 사용되는 클래스인 경우, 이름을 붙일 필요 없이 무명 클래스로 정의
+        * 코드의 양을 줄일 수 있지만, 표기법이 난해함
+    ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(15).png)
+    + 액티비티 클래스
+        * OnClickListener 인터페이스를 액태비티 클래스에 구현
+        * 어떤 클래스에도 인터페이스는 구현할 수 있음
+    ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(16).png)
