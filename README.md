@@ -639,3 +639,45 @@ public class MainActivity extends AppCompatActivity {
         * OnClickListener 인터페이스를 액태비티 클래스에 구현
         * 어떤 클래스에도 인터페이스는 구현할 수 있음
     ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(16).png)
+
+<details>
+<summary>10/12</summary>
+
+- 기본 위젯
+    + `TextView, Button, EdiitText`
+    + `CompoundButton, CheckBox`
+    + `RadioButton, Switch, ToggleButton`
+    + `ImageView, ImageGroup`
+<hr />
+
+- 고급 위젯
+    + API 사용해 앱 기능을 빠르게 개발/추가
+
+- 날짜/시간 관련 위젯
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(1).png)
+
+
+- 아날로그 시계
+```
+public class AnalogClock extends View
+
+java.lang.Object > android.view.View > android widget AnalogClock
+```
+
+- 디지털 시계
+```
+public class DigitalClock extends TextView
+```
+
+
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(2).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(3).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(4).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(5).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(6).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(7).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(8).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(9).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(10).png)
+
+</details>
