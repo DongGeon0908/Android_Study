@@ -640,6 +640,7 @@ public class MainActivity extends AppCompatActivity {
         * 어떤 클래스에도 인터페이스는 구현할 수 있음
     ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_7(16).png)
 
+</details>
 <details>
 <summary>10/12</summary>
 
