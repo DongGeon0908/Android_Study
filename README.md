@@ -680,4 +680,9 @@ public class DigitalClock extends TextView
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(9).png)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(10).png)
 
+
+- 시계 및 달력 예제
+[Button Base](https://github.com/DongGeon0908/Android_Study/tree/master/widgetTime)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(11).png)
+
 </details>
