@@ -687,3 +687,36 @@ public class DigitalClock extends TextView
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_12(11).png)
 
 </details>
+<details>
+<summary>10/14</summary>
+
+- 고급 위젯
+- 뷰 컨테이너
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(1).png)
+- 자동완성텍스트뷰 -> 하나의 단어만 입력 가능
+- 멀티자동완성텍스트뷰 -> 다수의 단어 입력 가능
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(2).png)
+
+[자동완성](https://github.com/DongGeon0908/Android_Study/tree/master/MyApplication4)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(3).png)
+
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(4).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(5).png)
+
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(6).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(7).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(8).png)
+
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(9).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(10).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(11).png)
+
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(12).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(13).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(14).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(15).png)
+
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(16).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_14(17).png)
+
+</details>
