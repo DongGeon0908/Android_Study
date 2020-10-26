@@ -751,3 +751,41 @@ public class DigitalClock extends TextView
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_19(6).png)
 
 </details>
+<details>
+<summary>10/26</summary>
+
+- JAVA 코드만 이용한 옵션 메뉴
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(1).png)
+
+[텝호스트](https://github.com/DongGeon0908/Android_Study/tree/master/MyApplication1026)
+[JAVA코드로 옵션](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(2).png)
+
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(3).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(4).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(5).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(6).png)
+
+- 컨텍스트 메뉴
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(7).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(8).png)
+
+- 실습예제
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(9).png)
+
+- 토스트
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(10).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(11).png)
+
+- 토스트 예제
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(12).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(13).png)
+
+- 대화 상자
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(14).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(15).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(16).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(17).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(18).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(19).png)
+
+</details>
