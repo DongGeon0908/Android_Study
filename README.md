@@ -789,3 +789,12 @@ public class DigitalClock extends TextView
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_26(19).png)
 
 </details>
+<details>
+<summary>과제3</summary>
+
+[과제3](https://github.com/DongGeon0908/Android_Study/blob/master/pic/project(3).png)
+[과제3](https://github.com/DongGeon0908/Android_Study/tree/master/project3)
+
+
+
+</details>
