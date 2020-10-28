@@ -801,6 +801,7 @@ public class DigitalClock extends TextView
 
 ### 파일 처리
 
+- `내장 메모리를 이용`
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(1).png)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(2).png)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(4).png)
@@ -810,5 +811,27 @@ public class DigitalClock extends TextView
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(3).png)
 
 
+[일기장](https://github.com/DongGeon0908/Android_Study/tree/master/Project8_1)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(6).png)
+
+
+- `res` 폴더를 이용
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(7).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(8).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(9).png)
+
+- `sd` 카드를 이용
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(10).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(11).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(12).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(13).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(14).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(15).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(16).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(17).png)
+
+- 특정 폴더의 하위 폴더 및 파일 목록
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(18).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(19).png)
 
 </details>
