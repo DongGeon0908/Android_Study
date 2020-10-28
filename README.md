@@ -795,6 +795,20 @@ public class DigitalClock extends TextView
 ![과제3](https://github.com/DongGeon0908/Android_Study/blob/master/pic/project(3).png)
 [과제3](https://github.com/DongGeon0908/Android_Study/tree/master/project3)
 
+</details>
+<details>
+<summary>10/28</summary>
+
+### 파일 처리
+
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(1).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(2).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(4).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(5).png)
+
+[내장메모리파일처리](https://github.com/DongGeon0908/Android_Study/tree/master/10281)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(3).png)
+
 
 
 </details>
