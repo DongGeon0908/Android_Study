@@ -835,3 +835,9 @@ public class DigitalClock extends TextView
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_28(19).png)
 
 </details>
+<details>
+<summary>11/2</summary>
+
+
+
+</details>
