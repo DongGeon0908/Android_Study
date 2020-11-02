@@ -860,5 +860,25 @@ png)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(12).png)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(13).png)
 
+- 이미지_비트맵
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(14).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(15).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(16).png)
+
+- 이미지의 기하학적 변형
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(17).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(18).png)
+
+- 이미지의 블러링
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(19).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(20).png)
+
+- 이미지의 엠보싱
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(21).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(22).png)
+
+- 이미지의 컬러
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(23).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(24).png)
 
 </details>
