@@ -838,6 +838,27 @@ public class DigitalClock extends TextView
 <details>
 <summary>11/2</summary>
 
+- 특정 폴더의 하위 폴더 및 파일 목록
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(1).png)
+
+- 그래픽과 이미지
+
+- 캔버스와 페인트 기본
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(2).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(3).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(4).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(5).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(6).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(7).png)
+png)
+
+- 그래픽_터치 이벤트
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(8).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(9).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(10).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(11).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(12).png)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(13).png)
 
 
 </details>
