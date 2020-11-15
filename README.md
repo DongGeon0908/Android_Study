@@ -568,9 +568,12 @@ public class MainActivity extends AppCompatActivity {
         * 방송을 받고 반응하는 컴포넌트
     + 컨텐트 제공자(content provider)
         * 데이터를 관리하고 다른 애플리케이션에게 제공하는 컴포넌트
+
 - 안드로이드에서는 다른 컴포넌트의 데이터를 사용할 수 있음
+
 - 인텐트
     + 애플리케이션의 의도를 적어서 안드로이드에 전달하면 안드로이드가 가장 적절한 컴포넌트를 찾아서 활성화하고 실행
+
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/10_5(10).png)
 
 - 안드로이드 애플리케이션의 실행 시작
