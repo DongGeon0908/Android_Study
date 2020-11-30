@@ -885,3 +885,16 @@ png)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_2(24).png)
 
 </details>
+<details>
+<summary>11/4</summary>
+
+[그래픽 실습](https://github.com/DongGeon0908/Android_Study/tree/master/1141)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_4(1).png)
+
+[그래픽 실습](https://github.com/DongGeon0908/Android_Study/tree/master/1142)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_4(2).png)
+
+[간단한 그림판](https://github.com/DongGeon0908/Android_Study/tree/master/1143)
+![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_4(3).png)
+
+</details>
