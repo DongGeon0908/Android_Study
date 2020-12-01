@@ -915,4 +915,119 @@ png)
 
 ![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(2).png)
 
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(3).png)
+<hr />
+
+- 하나의 APP이 여러개의 액티비트로 구성됨
+
+- 실습
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(4).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(5).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(6).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(7).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(8).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(9).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(10).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(11).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(12).png)
+<hr />
+
+- 액티비티 3개 만들기
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(13).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(14).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(15).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(16).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(17).png)
+<hr />
+
+- 인텐트
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(18).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(19).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(20).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(21).png)
+<hr />
+
+- 명화 선호도 투표 앱
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(22).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(23).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(24).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(25).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(26).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(27).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(28).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(29).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(30).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(31).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(32).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(33).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(34).png)
+<hr />
+
+- 양방향 액티비티
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(35).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(36).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(37).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(38).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(39).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(40).png)
+<hr />
+
+- 암시적 인텐트
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(41).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(42).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(43).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(44).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(45).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(46).png)
+<hr />
+
+- 액티비티 생명주기
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(47).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(48).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(49).png)
+
 </details>
