@@ -900,5 +900,19 @@ png)
 [간단한 포토샵](https://github.com/DongGeon0908/Android_Study/tree/master/Project9_2)
 ![실행화면](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_4(4).png)
 
+</details>
+<details>
+<summary>11/9</summary>
+
+- 액티비티의 개념
+- 인텐트의 개념
+- 액티비티 생명주기
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(1).png)
+
+- 액티비티는 화면에 보임
+- 서비스는 화면에 보이지 않을 수 있음
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_9(2).png)
 
 </details>
