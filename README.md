@@ -1046,3 +1046,14 @@ png)
 - `  android.util.Log.i()`를 통해 APP에 대한 생명주기 확인 가능
 
 </details>
+<details>
+<summary>11/16</summary>
+
+- 어댑터뷰
+    + 리스트뷰와 그리드뷰 
+    + 갤러리와 스피너 
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(1).png)
+
+
+</details>
