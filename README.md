@@ -1078,9 +1078,54 @@ png)
 [갤러리 영화 포스터](https://github.com/DongGeon0908/Android_Study/tree/master/Project11_2)
 ![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(17).png)
 
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(18).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(19).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(20).png)
 
+</details>
+<details>
+<summary>11/23</summary>
 
+- 멀티미디어와 구글 지도
+    + 오디오
+    + 스레드
+    + 구글지도
 
+- 오디오
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(1).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(2).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(3).png)
 
+- 중요
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(4).png)
 
-</details>ㅁ
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(5).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(6).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(7).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(8).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(9).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(10).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(11).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(12).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(13).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(14).png)
+
+- 스레드
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(15).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(16).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(17).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(18).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(19).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(20).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(21).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(22).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(23).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(24).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(25).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(26).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(27).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(28).png)
+
+</details>
