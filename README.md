@@ -1034,6 +1034,14 @@ png)
 <details>
 <summary>11/11</summary>
 
+[두개의 액티비티 사용](https://github.com/DongGeon0908/Android_Study/tree/master/Project10_1)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_11(1).png)
+- app > manifests > AndroidMainfest.xml 에 새로운 액티비티 추가해야함
 
+[명화 선호도 투표 App](https://github.com/DongGeon0908/Android_Study/tree/master/Project10_2)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_11(2).png)
+
+[명화 선호도 투표 App](https://github.com/DongGeon0908/Android_Study/tree/master/Project10_3)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_11(3).png)
 
 </details>
