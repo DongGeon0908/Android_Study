@@ -1054,6 +1054,33 @@ png)
     + 갤러리와 스피너 
 
 ![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(1).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(2).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(3).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(4).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(5).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(6).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(7).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(8).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(9).png)
+
+[그리드뷰 영화 포스터](https://github.com/DongGeon0908/Android_Study/tree/master/Project11_1)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(10).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(11).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(12).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(13).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(14).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(15).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(16).png)
+
+[갤러리 영화 포스터](https://github.com/DongGeon0908/Android_Study/tree/master/Project11_2)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_16(17).png)
 
 
-</details>
+
+
+
+
+</details>ㅁ
