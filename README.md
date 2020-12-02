@@ -1041,7 +1041,8 @@ png)
 [명화 선호도 투표 App](https://github.com/DongGeon0908/Android_Study/tree/master/Project10_2)
 ![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_11(2).png)
 
-[명화 선호도 투표 App](https://github.com/DongGeon0908/Android_Study/tree/master/Project10_3)
+[액티비티 생명주기 확인](https://github.com/DongGeon0908/Android_Study/tree/master/Project10_3)
 ![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_11(3).png)
+- `  android.util.Log.i()`를 통해 APP에 대한 생명주기 확인 가능
 
 </details>
