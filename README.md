@@ -1132,4 +1132,13 @@ png)
 <details>
 <summary>11/25</summary>
 
+[간단한 음악재생기](https://github.com/DongGeon0908/Android_Study/tree/master/Project13_1)
+![간단한 음악재생기](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(1).png)
+
+[간단한 구글지도](https://github.com/DongGeon0908/Android_Study/tree/master/Project13_2)
+![간단한 구글지도](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(2).png)
+
+[구글지도 활용](https://github.com/DongGeon0908/Android_Study/tree/master/Project13_3)
+![구글지도 활용](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(3).png)
+
 </details>
