@@ -1142,3 +1142,41 @@ png)
 ![구글지도 활용](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_23(3).png)
 
 </details>
+<details>
+<summary>11/30</summary>
+
+- 서비스와 브로드캐스트 리시버
+
+- 서비스
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(1).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(2).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(3).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(4).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(5).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(6).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(7).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(8).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(9).png)
+
+- 브로드캐스트 리시버
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(10).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(11).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(12).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(13).png)
+
+- 콘텐트 프로바이더
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(14).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(15).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(16).png)
+
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(17).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(18).png)
+![교재](https://github.com/DongGeon0908/Android_Study/blob/master/pic/11_30(19).png)
+
+- 인텐트가 매우 중요!!
+- 화면 구성 방법, 메서드 특징
+
+</details>
